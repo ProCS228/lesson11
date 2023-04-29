@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+    h1{
+text-align: center;
+    }
+    h3{
+text-align: center;
+    }
+</style>
+</head>
+<body>
+    <h1>Info about me</h1>
+    <div class="first">
+
+        </div>
+        <div class="Second">
+            <u><p>My name is Pasha</p></u>
+            <b><p>I'm 10 years old</p></b>
+            <i><p>and i like meat</p></i>
+            <b><p>I like to play minecraft</p></b>
+            <u><p>me want to be a polis man</p></u>
+            <i><u><b><p>and I'm from Ukraine</p></b></u></i>
+ <b><h3>And now your turn to speak</h3></b>       
+
+            </div>
+        </body>
+        </html>
